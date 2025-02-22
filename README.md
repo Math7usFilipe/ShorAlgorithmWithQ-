@@ -175,5 +175,5 @@ O algoritmo pode ser adaptado para fatorar outros números inteiros, alterando o
 <br>
 
 ### OBS:
-O seundo arquivo `Recursive.qs` é uma abordagem recursiva do primeiro código. Nele podemos receber todos fatores de um números, mas por limitações tanto minhas quanto da VM não consegui obter os fatores de qualquer número maior que 5. Caso você encontre um solução para o que está acarretando isso você está apto a fazer qualquer modificação e publicação relacionada a esse repositório.
+O seundo arquivo no diretório `recursiveSolution` é uma abordagem recursiva do primeiro código. Nele podemos receber todos fatores de um números, mas por limitações tanto minhas quanto da VM não consegui obter os fatores de qualquer número maior que 5. Caso você encontre um solução para o que está acarretando isso você está apto a fazer qualquer modificação e publicação relacionada a esse repositório.
 
